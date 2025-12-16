@@ -66,11 +66,6 @@ These models were chosen for:
 
 ---
 
-## Project Structure
-
-
----
-
 ## Results & Observations
 
 - TF-IDF consistently outperforms raw Bag-of-Words
